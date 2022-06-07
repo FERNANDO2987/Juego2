@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1653961637 source:c:\users\ferpa\onedrive\escritorio\juego_gran_cerdo\cerditos.cpp
+	<iostream>
+	<locale.h>
+	"rlutil.h"
+	<ctime>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	"prototipo.h"
+
+1635076139 c:\users\ferpa\onedrive\escritorio\juego_gran_cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1654628731 c:\users\ferpa\onedrive\escritorio\juego_gran_cerdo\prototipo.h
+
+1654353621 source:c:\users\ferpa\onedrive\escritorio\juego_gran_cerdo\estadisticas.cpp
+	<iostream>
+	<locale.h>
+	"rlutil.h"
+	<ctime>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	"prototipo.h"
+
+1654219665 source:c:\users\ferpa\onedrive\escritorio\juego_gran_cerdo\main.cpp
+	<iostream>
+	<locale.h>
+	"rlutil.h"
+	<ctime>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	"prototipo.h"
+
+1653962772 source:c:\users\ferpa\onedrive\escritorio\juego_gran_cerdo\presentacion.cpp
+	<iostream>
+	<locale.h>
+	"rlutil.h"
+	<ctime>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	"prototipo.h"
+
+1654219339 source:c:\users\ferpa\onedrive\escritorio\juego_gran_cerdo\reglas_del_juego.cpp
+	<iostream>
+	<locale.h>
+	"rlutil.h"
+	<ctime>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	"prototipo.h"
+
+1654628940 source:c:\users\ferpa\onedrive\escritorio\juego_gran_cerdo\funciones.cpp
+	<iostream>
+	<locale.h>
+	"rlutil.h"
+	<ctime>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	"prototipo.h"
+
+1654629056 source:c:\users\ferpa\onedrive\escritorio\juego_gran_cerdo\menu.cpp
+	<iostream>
+	<locale.h>
+	"rlutil.h"
+	<ctime>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	"prototipo.h"
+
